@@ -1,0 +1,7 @@
+runtime: nodejs
+vm: true
+api_version: 1
+env_variables:
+  PORT: 80
+  NODE_ENV: 'production'
+  MONGODB_URI: 'mongodb://loga2db:l0ga2@ds021943.mlab.com:21943/loga2'
